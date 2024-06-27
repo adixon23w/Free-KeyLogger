@@ -21,7 +21,7 @@ This Python script logs key presses along with the title of the active window at
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/keylogger.git
+    git clone https://github.com/adixon23w/keylogger.git
     cd keylogger
     ```
 
